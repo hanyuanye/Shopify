@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shopify</string>
+    <string name="province_header">Orders by Province</string>
+</resources>
